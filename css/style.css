@@ -1,0 +1,35 @@
+body {
+    font-family: 'Georgia', serif;
+    line-height: 1.6;
+    background-color: #fdf6e3;
+    padding: 20px;
+    color: #073642;
+}
+
+header small {
+    font-size: 0.5em;
+}
+
+
+h1, h2, h3 {
+    color: #2aa198;
+}
+
+a {
+    color: #268bd2;
+}
+
+a:hover {
+    color: #6c71c4;
+}
+
+.sub_date {
+    font-size: 0.8em;
+    color: #586e75;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
